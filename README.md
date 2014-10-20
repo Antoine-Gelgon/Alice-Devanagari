@@ -22,5 +22,3 @@ The project started in June 2014 and the brief is to have a [minimum viable prod
 'Alice' is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
 
 To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/weiweihuanghuang/Alice-Devanagari/blob/master/OFL.txt).
-
-Italic
